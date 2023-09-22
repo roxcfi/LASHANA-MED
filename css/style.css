@@ -9053,7 +9053,7 @@ a {
     color: #000; }
 
 .hero, .bg-image {
-  background-color: #000;
+  background-color: #fff;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -9078,7 +9078,7 @@ a {
       right: 0;
       bottom: 0;
       z-index: 1;
-      background-color: rgba(0, 0, 0, 0.2); }
+      background-color: rgba(0, 0, 0, 0); }
     .hero.overlay > .container, .bg-image.overlay > .container {
       position: relative;
       z-index: 2; }
@@ -9147,7 +9147,7 @@ a {
     border-color: #000; }
     .btn.btn-primary-outline.white {
       color: #fff;
-      border-color: #cec6df; }
+      border-color: #fff; }
     .btn.btn-primary-outline:hover {
       background: #fff;
       color: #cec6df; }
