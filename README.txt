@@ -1,7 +1,3 @@
-Template Name: Archiark
-Template Author: Untree.co
+Template Name: Version1
+Template Author: Roxane Couffitte
 Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
-
-Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
